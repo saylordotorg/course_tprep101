@@ -1,3 +1,10 @@
+---
+layout: default
+title: "TPREP101: SAT Prep"
+course_description: "This course will cover the basic knowledge needed in each subject to do well on the SAT, as well as rules and strategies for answering SAT questions. The course also includes a practice questions within each section that allow you to apply the covered concepts immediately, as well as complete practice tests."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Probability and Statistics** <span id="7"></span> 
 *Probability and statistics are the final mathematical topics important
 to master in order to do well on the SAT.  These are not complicated

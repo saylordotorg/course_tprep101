@@ -1,3 +1,10 @@
+---
+layout: default
+title: "TPREP101: SAT Prep"
+course_description: "This course will cover the basic knowledge needed in each subject to do well on the SAT, as well as rules and strategies for answering SAT questions. The course also includes a practice questions within each section that allow you to apply the covered concepts immediately, as well as complete practice tests."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Practice Problems** <span id="9"></span> 
 *Now that you have worked through all of the knowledge that you need to
 review for the SAT, you need to practice applying that knowledge.  This

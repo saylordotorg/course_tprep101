@@ -1,3 +1,10 @@
+---
+layout: default
+title: "TPREP101: SAT Prep"
+course_description: "This course will cover the basic knowledge needed in each subject to do well on the SAT, as well as rules and strategies for answering SAT questions. The course also includes a practice questions within each section that allow you to apply the covered concepts immediately, as well as complete practice tests."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Writing** <span id="8"></span> 
 *The writing section of the SAT consists of multiple choice questions
 where you are required to find errors or improvements that can be made

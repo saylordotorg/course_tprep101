@@ -1,3 +1,10 @@
+---
+layout: default
+title: "TPREP101: SAT Prep"
+course_description: "This course will cover the basic knowledge needed in each subject to do well on the SAT, as well as rules and strategies for answering SAT questions. The course also includes a practice questions within each section that allow you to apply the covered concepts immediately, as well as complete practice tests."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Practice Test** <span id="10"></span> 
 *The only practice left to do now is to take an actual SAT test! 
 Because the SAT is nearly 4 hours long, taking a practice test is a

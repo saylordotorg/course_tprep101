@@ -1,3 +1,10 @@
+---
+layout: default
+title: "TPREP101: SAT Prep"
+course_description: "This course will cover the basic knowledge needed in each subject to do well on the SAT, as well as rules and strategies for answering SAT questions. The course also includes a practice questions within each section that allow you to apply the covered concepts immediately, as well as complete practice tests."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Algebra** <span id="5"></span> 
 *One of the most important mathematical subtopics you need to master to
 do well on the SAT is algebra.  Understanding how to solve an equation
