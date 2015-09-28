@@ -181,3 +181,4 @@ total of 1.5 hours) on Tuesday night; etc.
 - [Unit 9](https://legacy.saylor.org/tprep101/Unit09/)
 - [Unit 10](https://legacy.saylor.org/tprep101/Unit10/)
 - [Unit 11](https://legacy.saylor.org/tprep101/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ELECTIVES/TPREP101/TPREP101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ELECTIVES/TPREP101/TPREP101-FinalExam-Answers.html)
